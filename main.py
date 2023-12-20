@@ -1,6 +1,13 @@
 import turtle
 import winsound
 
+# Sources
+#Used geeksforgeeks
+#- helped buid better understanding of each class and its function
+#Youtube videos in general
+#Tech with Tim 
+#- helped tremendously
+#teo leclair also helped me build some classes and add new designs
 
 
 WHITE = (18, 205, 255)
